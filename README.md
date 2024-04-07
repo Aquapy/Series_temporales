@@ -1,13 +1,14 @@
-# Filtrando DataFrames en Python: Cómo Dominar la Manipulación de Datos
+# Series Temporales en Python: Estrategias, Técnicas y Herramientas
 
-![Fitrando datos en pandas](https://github.com/Aquapy/FILTRO-PANDAS/blob/main/Fondo.jpg?raw=true)
+![Series temporales](https://github.com/Aquapy/Series_temporales/blob/main/SERIES_TEMP.jpg?raw=true)
 
 Descripción:
-En este video, te sumergirás en el fascinante mundo de la manipulación de datos utilizando Pandas en Python. Aprenderás cómo filtrar eficientemente datos en DataFrames, una tarea fundamental en el análisis de datos. Comenzaremos desde lo básico, explicando qué es un DataFrame y cómo se puede acceder a los datos dentro de él. Luego, profundizaremos en diferentes técnicas de filtrado que te permitirán extraer información específica según tus necesidades.
 
-Exploraremos cómo utilizar métodos como loc[] y iloc[] para seleccionar filas y columnas basadas en etiquetas de índice o posiciones numéricas. Además, cubriremos el uso de operadores lógicos y comparativos para filtrar datos basados en condiciones específicas, como valores mayores que cierto umbral o igual a un valor dado. Para aprender más consulta nuestro video:
+En este emocionante video, te adentrarás en el vasto mundo del análisis de series temporales utilizando Python. Las series temporales son fundamentales en muchos campos, desde finanzas hasta meteorología y más allá. Aprenderás las mejores prácticas, estrategias y herramientas para abordar este tipo de datos de manera efectiva y obtener información valiosa.
 
-* [Filtrar dataframes](https://www.youtube.com/watch?v=0MEoGE1Cd04)
+Comenzaremos con los conceptos básicos, explicando qué son las series temporales y cómo difieren de otros tipos de datos. Te sumergirás en la manipulación de fechas y tiempos, aprendiendo cómo manejarlas con precisión en Python utilizando bibliotecas como Pandas. Para aprender más consulta nuestro video:
+
+* [Series temporales](https://www.youtube.com/watch?v=zgR6hhMyaLQ&list=PLAKj9P7fPCGGmDF9C8Hu670HfCO9t7_gj&index=4)
 
 
 🐼No olvides que este video hace parte de una serie de videos de la librería pandas:🐼
